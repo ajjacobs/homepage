@@ -1,0 +1,6 @@
+- layout: left
+  name: 2019
+  description: | # this will include new lines to allow paragraphs
+      Jacobsen, Andrew. ["Vector Step-size Adaptation for Continual, Online Prediction."](https://era-library-ualberta-ca.login.ezproxy.library.ualberta.ca/items/45152ea7-da40-44ce-b999-df6aa7ec7c21) MSc thesis. University of Alberta. 2019.
+
+      Jacobsen, Andrew, Matthew Schlegel, Cameron Linke, Thomas Degris, Adam White, and Martha White. ["Meta-descent for Online, Continual Prediction."](https://www.aaai.org/ojs/index.php/AAAI/article/view/4284) In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 33, pp. 3943-3950. 2019.

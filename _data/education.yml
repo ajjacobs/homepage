@@ -1,0 +1,18 @@
+- layout: left
+  name: University of Alberta
+  dates: 2019 - now
+  qualification: PhD, Computer Science
+  description: 
+      Supervised by Adam White and Martha White.
+- layout: left
+  name: University of Alberta
+  dates: 2018 - 2019
+  qualification: MSc, Computer Science
+  description: |
+      Thesis: [Vector Step-size Adaptation for Continual, Online Prediction](https://era.library.ualberta.ca/items/45152ea7-da40-44ce-b999-df6aa7ec7c21).
+
+      Supervised by Adam White and Martha White.
+- layout: left
+  name: University of Alberta
+  dates: 2013 - 2018
+  qualification: BSc, Computer Science 
