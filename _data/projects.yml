@@ -1,4 +1,8 @@
 - layout: left
+  name: 2020
+  description: | # this will include new lines to allow paragraphs
+      Schlegel, Matthew, Andrew Jacobsen, Muhammad Zaheer, Andrew Patterson, Adam White, Martha White. ["General Value Function Networks."](https://arxiv.org/abs/1807.06763) arXiv:1807.06763v3. 2020.
+- layout: left
   name: 2019
   description: | # this will include new lines to allow paragraphs
       Jacobsen, Andrew. ["Vector Step-size Adaptation for Continual, Online Prediction."](https://era-library-ualberta-ca.login.ezproxy.library.ualberta.ca/items/45152ea7-da40-44ce-b999-df6aa7ec7c21) MSc thesis. University of Alberta. 2019.
