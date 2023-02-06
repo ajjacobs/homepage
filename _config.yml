@@ -4,19 +4,23 @@ repository: ajjacobs/homepage
 
 # Personal info
 name: Andrew Jacobsen
-title: PhD Student
-email: see most-recent publication
-website: ajjacobs.github.io
+title: Ph.D. Student
+
+email: ajjacobs (at) ualberta (dot) ca
 
 # Social links
-github_username:  ajjacobs
+# github_username:  ajjacobs
 
 # About Section
 # about_title: About Me
 #about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a PhD student at the University of Alberta, supervised by Adam White and Martha White.
-  I'm interested in Online Learning, Reinforcement Learning, Time-varying optimization, and Bandits.
+  I am a Ph.D. student working at the University of Alberta, advised by Ashok Cutkosky (Boston University) and Martha White (University of Alberta).
+  My primary focus is online learning theory, particularly algorithms that require no hyperparameter tuning
+  and can adapt to time-varying objectives on-the-fly. I am also broadly interested in machine learning theory, reinforcement learning,
+  and bandits.
+
+  Feel free to get in touch!
 
 # Projects Section
 projects_title: Publications
