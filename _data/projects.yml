@@ -1,4 +1,9 @@
 - layout: left
+  name: 2023
+  description: | # this will include new lines to allow paragraphs
+      **Andrew Jacobsen**, Ashok Cutkosky. "Unconstrained Online Learning with Unbounded Losses". International Conference on Machine Learning (ICML), 2023. (in press)
+
+- layout: left
   name: 2022
   description: | # this will include new lines to allow paragraphs
       **Andrew Jacobsen**, Ashok Cutkosky. ["Parameter-free Mirror Descent"](https://proceedings.mlr.press/v178/jacobsen22a.html).  Conference on Learning Theory (COLT). 2022.
