@@ -1,7 +1,7 @@
 - layout: left
   name: 2023
   description: | # this will include new lines to allow paragraphs
-      **Andrew Jacobsen**, Ashok Cutkosky. "Unconstrained Online Learning with Unbounded Losses". International Conference on Machine Learning (ICML), 2023. (in press)
+      **Andrew Jacobsen**, Ashok Cutkosky. "Unconstrained Online Learning with Unbounded Losses". International Conference on Machine Learning. 2023. (in press)
 
 - layout: left
   name: 2022
@@ -11,7 +11,7 @@
 - layout: left
   name: 2021
   description: | # this will include new lines to allow paragraphs
-      Matthew McLeod, Chunlok Lo, Matthew Schlegel, **Andrew Jacobsen**, Raksha Kumaraswamy, Martha White, Adam White. ["Continual Auxiliary Task Learning"](https://proceedings.neurips.cc/paper/2021/file/68331ff0427b551b68e911eebe35233b-Paper.pdf). Neural Information Processing Systems. 2021
+      Matthew McLeod, Chunlok Lo, Matthew Schlegel, **Andrew Jacobsen**, Raksha Kumaraswamy, Martha White, Adam White. ["Continual Auxiliary Task Learning"](https://proceedings.neurips.cc/paper/2021/file/68331ff0427b551b68e911eebe35233b-Paper.pdf). Neural Information Processing Systems. 2021.
 
 - layout: left
   name:
