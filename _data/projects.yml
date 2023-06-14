@@ -1,7 +1,7 @@
 - layout: left
   name: 2023
   description: | # this will include new lines to allow paragraphs
-      **Andrew Jacobsen**, Ashok Cutkosky. "Unconstrained Online Learning with Unbounded Losses". International Conference on Machine Learning. 2023. (in press)
+      **Andrew Jacobsen**, Ashok Cutkosky. ["Unconstrained Online Learning with Unbounded Losses"](https://arxiv.org/pdf/2306.04923.pdf). International Conference on Machine Learning. 2023. (in press)
 
 - layout: left
   name: 2022
