@@ -39,7 +39,7 @@ content:
       - layout: left
         title: "2024"
         description: | # this will include new lines to allow paragraphs
-            **Andrew Jacobsen**, Francesco Orabona. ["An Equivalence Between Static and Dynamic Regret Minimization"](https://arxiv.org/pdf/2406.01577). arXiv pre-print. 2024.
+            **Andrew Jacobsen**, Francesco Orabona. ["An Equivalence Between Static and Dynamic Regret Minimization"](https://arxiv.org/pdf/2406.01577). pre-print. 2024.
 
       - layout: left
         description: | # this will include new lines to allow paragraphs
@@ -53,7 +53,7 @@ content:
       - layout: left
         title: "2022"
         description: | # this will include new lines to allow paragraphs
-            **Andrew Jacobsen**, Ashok Cutkosky. ["Parameter-free Mirror Descent"](https://proceedings.mlr.press/v178/jacobsen22a.html).  Conference on Learning Theory (COLT). 2022.
+            **Andrew Jacobsen**, Ashok Cutkosky. ["Parameter-free Mirror Descent"](https://arxiv.org/pdf/2203.00444).  Conference on Learning Theory (COLT). 2022.
 
       - layout: left
         title: "2021"
@@ -71,7 +71,7 @@ content:
 
       - layout: left
         description: | # this will include new lines to allow paragraphs
-            **Andrew Jacobsen**, Matthew Schlegel, Cameron Linke, Thomas Degris, Adam White, and Martha White. ["Meta-descent for Online, Continual Prediction."](https://www.aaai.org/ojs/index.php/AAAI/article/view/4284) In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 33, pp. 3943-3950. 2019.
+            **Andrew Jacobsen**, Matthew Schlegel, Cameron Linke, Thomas Degris, Adam White, and Martha White. ["Meta-descent for Online, Continual Prediction."](https://www.aaai.org/ojs/index.php/AAAI/article/view/4284) In Proceedings of the AAAI Conference on Artificial Intelligence. 2019.
 
 # =================
 # --- EDUCATION ---
