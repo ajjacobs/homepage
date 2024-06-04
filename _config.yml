@@ -2,14 +2,18 @@
 repository: ajjacobs/homepage
 #favicon: images/favicon.ico
 
+version: 2
+
 # Personal info
 name: Andrew Jacobsen
 title: Ph.D. Student
-
 email: ajjacobs (at) ualberta (dot) ca
+
+darkmode: never
 
 # Social links
 github_username:  ajjacobs
+
 
 # About Section
 # about_title: About Me
@@ -20,28 +24,83 @@ about_content: | # this will include new lines to allow paragraphs
   and can adapt to time-varying objectives on-the-fly. I am also broadly interested in machine learning theory, reinforcement learning,
   and bandits.
 
+  In my free time I enjoy [playing guitar](https://www.youtube.com/channel/UCNpwOJj95SXIyIaio3ouEWg), skateboarding, climbing, and wrestling.
+
   Feel free to get in touch!
 
-# Projects Section
-projects_title: Publications
+# ====================
+# --- PUBLICATIONS ---
+# ====================
+content:
+  - title: Publications
+    layout: list
+    content:
 
-# Experience Section
-# experience_title: Experience
+      - layout: left
+        title: "2024"
+        description: | # this will include new lines to allow paragraphs
+            **Andrew Jacobsen**, Francesco Orabona. ["An Equivalence Between Static and Dynamic Regret Minimization"](https://arxiv.org/pdf/2406.01577). arXiv pre-print. 2024.
 
-# Education Section
-# educaton_title: Education
+      - layout: left
+        description: | # this will include new lines to allow paragraphs
+            **Andrew Jacobsen**, Ashok Cutkosky. ["Online Linear Regression in Dynamic Environments via Discounting"](https://arxiv.org/pdf/2405.19175). International Conference on Machine Learning. 2024.
 
-# More Section
-# more_title: A Little More About Me
-#more_content: | # this will include new lines to allow paragraphs
-#Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-#- Rock climbing
-#- Gaming
-#- Knitting
-#- [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - layout: left
+        title: "2023"
+        description: | # this will include new lines to allow paragraphs
+            **Andrew Jacobsen**, Ashok Cutkosky. ["Unconstrained Online Learning with Unbounded Losses"](https://arxiv.org/pdf/2306.04923.pdf). International Conference on Machine Learning. 2023.
+
+      - layout: left
+        title: "2022"
+        description: | # this will include new lines to allow paragraphs
+            **Andrew Jacobsen**, Ashok Cutkosky. ["Parameter-free Mirror Descent"](https://proceedings.mlr.press/v178/jacobsen22a.html).  Conference on Learning Theory (COLT). 2022.
+
+      - layout: left
+        title: "2021"
+        description: | # this will include new lines to allow paragraphs
+            Matthew McLeod, Chunlok Lo, Matthew Schlegel, **Andrew Jacobsen**, Raksha Kumaraswamy, Martha White, Adam White. ["Continual Auxiliary Task Learning"](https://proceedings.neurips.cc/paper/2021/file/68331ff0427b551b68e911eebe35233b-Paper.pdf). Neural Information Processing Systems. 2021.
+
+      - layout: left
+        description: | # this will include new lines to allow paragraphs
+            Matthew Schlegel, **Andrew Jacobsen**, Muhammad Zaheer, Andrew Patterson, Adam White, Martha White. ["General Value Function Networks."](https://jair.org/index.php/jair/article/view/12105) Journal of Artificial Intelligence Research. 2021.
+
+      - layout: left
+        title: "2019"
+        description: | # this will include new lines to allow paragraphs
+            **Andrew Jacobsen**. ["Vector Step-size Adaptation for Continual, Online Prediction."](https://era-library-ualberta-ca.login.ezproxy.library.ualberta.ca/items/45152ea7-da40-44ce-b999-df6aa7ec7c21) MSc thesis. University of Alberta. 2019.
+
+      - layout: left
+        description: | # this will include new lines to allow paragraphs
+            **Andrew Jacobsen**, Matthew Schlegel, Cameron Linke, Thomas Degris, Adam White, and Martha White. ["Meta-descent for Online, Continual Prediction."](https://www.aaai.org/ojs/index.php/AAAI/article/view/4284) In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 33, pp. 3943-3950. 2019.
+
+# =================
+# --- EDUCATION ---
+# =================
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: University of Alberta
+        sub_title: Ph.D. Computer Science
+        caption: 2019 - now
+        description: |
+            Advisors: Ashok Cutkosky, Martha White
+      - layout: left
+        title: University of Alberta
+        sub_title: M.Sc. Computer Science
+        caption: 2018 - 2019
+        description: |
+            Thesis: [Vector Step-size Adaptation for Continual, Online Prediction](https://era.library.ualberta.ca/items/45152ea7-da40-44ce-b999-df6aa7ec7c21).
+
+            Advisors: Martha White, Adam White
+      - layout: left
+        title: University of Alberta
+        sub_title: B.Sc. Computer Science
+        caption: 2013 - 2018
 
 # Footer
-footer_show_references: true
+footer_show_references: false
+
 
 # Build settings
 remote_theme: sproogen/resume-theme
