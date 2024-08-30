@@ -6,7 +6,7 @@ version: 2
 
 # Personal info
 name: Andrew Jacobsen
-title: Ph.D. Student
+title: Ph.D., Computing Science
 email: contact (at) andrew-jacobsen (dot) com
 
 darkmode: never
@@ -19,7 +19,10 @@ github_username:  ajjacobs
 # about_title: About Me
 #about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a Ph.D. student working at the University of Alberta, advised by Ashok Cutkosky (Boston University) and Martha White (University of Alberta).
+  I earned a PhD in Computing Science in 2024 from the University of Alberta, advised by Ashok Cutkosky (Boston University) and Martha White (University of Alberta).
+  Before that, I earned a MSc in Computing Science from the University of Alberta, studying under Martha White and Adam White.
+  I also completed a music program at Grant Macewan University, where I majored in Composition and minored in Music Technology.
+
   My primary focus is online learning theory, particularly algorithms that require no hyperparameter tuning
   and can adapt to time-varying objectives on-the-fly. I am also broadly interested in machine learning theory, reinforcement learning,
   and bandits.
@@ -74,30 +77,30 @@ content:
         description: | # this will include new lines to allow paragraphs
             **Andrew Jacobsen**, Matthew Schlegel, Cameron Linke, Thomas Degris, Adam White, and Martha White. ["Meta-descent for Online, Continual Prediction."](https://www.aaai.org/ojs/index.php/AAAI/article/view/4284) In Proceedings of the AAAI Conference on Artificial Intelligence. 2019.
 
-# =================
-# --- EDUCATION ---
-# =================
-  - title: Education
-    layout: list
-    content:
-      - layout: left
-        title: University of Alberta
-        sub_title: Ph.D. Computer Science
-        caption: 2019 - now
-        description: |
-            Advisors: Ashok Cutkosky, Martha White
-      - layout: left
-        title: University of Alberta
-        sub_title: M.Sc. Computer Science
-        caption: 2018 - 2019
-        description: |
-            Thesis: [Vector Step-size Adaptation for Continual, Online Prediction](https://era.library.ualberta.ca/items/45152ea7-da40-44ce-b999-df6aa7ec7c21).
+# # =================
+# # --- EDUCATION ---
+# # =================
+#   - title: Education
+#     layout: list
+#     content:
+#       - layout: left
+#         title: University of Alberta
+#         sub_title: Ph.D. Computer Science
+#         caption: 2019 - now
+#         description: |
+#             Advisors: Ashok Cutkosky, Martha White
+#       - layout: left
+#         title: University of Alberta
+#         sub_title: M.Sc. Computer Science
+#         caption: 2018 - 2019
+#         description: |
+#             Thesis: [Vector Step-size Adaptation for Continual, Online Prediction](https://era.library.ualberta.ca/items/45152ea7-da40-44ce-b999-df6aa7ec7c21).
 
-            Advisors: Martha White, Adam White
-      - layout: left
-        title: University of Alberta
-        sub_title: B.Sc. Computer Science
-        caption: 2013 - 2018
+#             Advisors: Martha White, Adam White
+#       - layout: left
+#         title: University of Alberta
+#         sub_title: B.Sc. Computer Science
+#         caption: 2013 - 2018
 
 # Footer
 footer_show_references: false
