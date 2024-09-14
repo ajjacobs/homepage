@@ -43,7 +43,7 @@ content:
       - layout: left
         title: "2024"
         description: | # this will include new lines to allow paragraphs
-          **Andrew Jacobsen**. ["Adapting to Non-stationarity in Online Learning"](https://ajjacobs.github.io/thesis/Jacobsen_Andrew_PhD.pdf). PhD Thesis. 2024.
+          **Andrew Jacobsen**. ["Adapting to Non-stationarity in Online Learning"](https://ajjacobs.github.io/thesis/Jacobsen_Andrew_PhD.pdf). PhD Thesis. University of Alberta. 2024.
 
       - layout: left
         description: | # this will include new lines to allow paragraphs
