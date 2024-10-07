@@ -6,7 +6,7 @@ version: 2
 
 # Personal info
 name: Andrew Jacobsen
-title: Ph.D., Computing Science
+title: Postdoctoral researcher
 email: contact (at) andrew-jacobsen (dot) com
 
 darkmode: never
@@ -19,13 +19,15 @@ github_username:  ajjacobs
 # about_title: About Me
 #about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I earned a PhD in Computing Science in 2024 from the University of Alberta, advised by Ashok Cutkosky (Boston University) and Martha White (University of Alberta).
-  Before that, I earned a MSc in Computing Science (advised by Martha White and Adam White) and a BSc in Computing Science from the University of Alberta.
-  I have also completed a music program at Grant Macewan University, where I majored in composition and minored in music technology.
-
+  I am a postdoctoral researcher at Università degli Studi di Milano,
+  working with Nicolò Cesa-Bianchi.
   My primary focus is online learning theory, particularly algorithms that require no hyperparameter tuning
   and can adapt to time-varying objectives on-the-fly. I am also broadly interested in machine learning theory, reinforcement learning,
   and bandits.
+
+  I earned a PhD in Computing Science in 2024 from the University of Alberta, advised by Ashok Cutkosky (Boston University) and Martha White (University of Alberta).
+  Before that, I earned a MSc in Computing Science (advised by Martha White and Adam White) and a BSc in Computing Science from the University of Alberta.
+  I have also completed a music program at Grant Macewan University, where I majored in composition and minored in music technology.
 
   In my free time I enjoy [playing guitar](https://www.youtube.com/channel/UCNpwOJj95SXIyIaio3ouEWg), skateboarding, climbing, and wrestling/grappling.
 
