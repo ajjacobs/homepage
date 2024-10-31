@@ -49,16 +49,16 @@ content:
 
       - layout: left
         description: | # this will include new lines to allow paragraphs
-            **Andrew Jacobsen**, Francesco Orabona. ["An Equivalence Between Static and Dynamic Regret Minimization"](https://arxiv.org/pdf/2406.01577). pre-print. 2024.
+            **Andrew Jacobsen**, Francesco Orabona. ["An Equivalence Between Static and Dynamic Regret Minimization"](https://arxiv.org/pdf/2406.01577). Neural Information Processing Systems (NeurIPS). 2024.
 
       - layout: left
         description: | # this will include new lines to allow paragraphs
-            **Andrew Jacobsen**, Ashok Cutkosky. ["Online Linear Regression in Dynamic Environments via Discounting"](https://arxiv.org/pdf/2405.19175). International Conference on Machine Learning. 2024.
+            **Andrew Jacobsen**, Ashok Cutkosky. ["Online Linear Regression in Dynamic Environments via Discounting"](https://arxiv.org/pdf/2405.19175). International Conference on Machine Learning (ICML). 2024.
 
       - layout: left
         title: "2023"
         description: | # this will include new lines to allow paragraphs
-            **Andrew Jacobsen**, Ashok Cutkosky. ["Unconstrained Online Learning with Unbounded Losses"](https://arxiv.org/pdf/2306.04923.pdf). International Conference on Machine Learning. 2023.
+            **Andrew Jacobsen**, Ashok Cutkosky. ["Unconstrained Online Learning with Unbounded Losses"](https://arxiv.org/pdf/2306.04923.pdf). International Conference on Machine Learning (ICML). 2023.
 
       - layout: left
         title: "2022"
