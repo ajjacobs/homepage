@@ -20,7 +20,7 @@ github_username:  ajjacobs
 #about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a postdoctoral researcher affiliated with Politecnico di Milano and  Università degli Studi di Milano,
-  working with Nicolò Cesa-Bianchi.
+  working with [Nicolò Cesa-Bianchi](https://cesa-bianchi.di.unimi.it/).
   My primary focus is online learning theory, particularly algorithms that require no hyperparameter tuning
   and can adapt to time-varying objectives on-the-fly. I am also broadly interested in machine learning theory, reinforcement learning,
   and bandits.
