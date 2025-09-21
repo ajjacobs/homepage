@@ -45,7 +45,7 @@ content:
       - layout: left
         title: "2025"
         description: | # this will include new lines to allow paragraphs
-          **Andrew Jacobsen**, Alessandro Rudi, Francesco Orabona, Nicolo Cesa-Bianchi. ["Dynamic Regret Reduces to Kernelized Static Regret"](https://arxiv.org/pdf/2507.05478). Preprint. 2025.
+          **Andrew Jacobsen**, Alessandro Rudi, Francesco Orabona, Nicolo Cesa-Bianchi. ["Dynamic Regret Reduces to Kernelized Static Regret"](https://arxiv.org/pdf/2507.05478). Neural Information Processing Systems (NeurIPS). 2025.
 
       - layout: left
         title: "2024"
