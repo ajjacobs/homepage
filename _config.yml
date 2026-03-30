@@ -45,6 +45,10 @@ content:
       - layout: left
         title: "2026"
         description: | # this will include new lines to allow paragraphs
+          Alberto Rumi\*, **Andrew Jacobsen**\*, Nicolo Cesa-Bianchi, Fabio Vitale. ["Parameter-Free Dynamic Regret for Unconstrained Linear Bandits"](https://arxiv.org/pdf/2603.25916). AISTATS. 2026.
+
+      - layout: left
+        description: | # this will include new lines to allow paragraphs
           Emmanuel Esposito\*, **Andrew Jacobsen**\*, Hao Qiu\*, Mengxiao Zhang\*. ["Parameter-free Dynamic Regret: Time-varying Movement Costs, Delayed Feedback, and Memory"](https://arxiv.org/pdf/2602.06902). ArXiV pre-print,  2025.
 
       - layout: left
