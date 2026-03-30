@@ -45,7 +45,7 @@ content:
       - layout: left
         title: "2026"
         description: | # this will include new lines to allow paragraphs
-          Alberto Rumi\*, **Andrew Jacobsen**\*, Nicolo Cesa-Bianchi, Fabio Vitale. ["Parameter-Free Dynamic Regret for Unconstrained Linear Bandits"](https://arxiv.org/pdf/2603.25916). AISTATS. 2026.
+          Alberto Rumi\*, **Andrew Jacobsen**\*, Nicolo Cesa-Bianchi, Fabio Vitale. ["Parameter-Free Dynamic Regret for Unconstrained Linear Bandits"](https://arxiv.org/pdf/2603.25916). International Conference on Artificial Intelligence and Statistics (AISTATS). 2026. **(Spotlight)**
 
       - layout: left
         description: | # this will include new lines to allow paragraphs
