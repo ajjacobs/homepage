@@ -45,7 +45,12 @@ content:
       - layout: left
         title: "2026"
         description: | # this will include new lines to allow paragraphs
+          Yuheng Zhao\*, **Andrew Jacobsen**\*, Nicolo Cesa-Bianchi, Peng Zhao. ["Gradient-Variation Regret Bounds for Unconstrained Online Learning"](https://arxiv.org/pdf/2604.11151). ArXiV preprint, 2026.
+
+      - layout: left
+        description: | # this will include new lines to allow paragraphs
           **Andrew Jacobsen**\*, Dorian Baudry\*, Shinji Ito, Nicolo Cesa-Bianchi. ["A Perturbation Approach to Unconstrained Linear Bandits"](https://arxiv.org/pdf/2603.28201). ArXiV preprint, 2026.
+
 
       - layout: left
         description: | # this will include new lines to allow paragraphs
