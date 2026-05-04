@@ -45,7 +45,7 @@ content:
       - layout: left
         title: "2026"
         description: | # this will include new lines to allow paragraphs
-          Yuheng Zhao\*, **Andrew Jacobsen**\*, Nicolo Cesa-Bianchi, Peng Zhao. ["Gradient-Variation Regret Bounds for Unconstrained Online Learning"](https://arxiv.org/pdf/2604.11151). ArXiV preprint, 2026.
+          Yuheng Zhao\*, **Andrew Jacobsen**\*, Nicolo Cesa-Bianchi, Peng Zhao. ["Gradient-Variation Regret Bounds for Unconstrained Online Learning"](https://arxiv.org/pdf/2604.11151). Conference on Learning Theory (COLT). 2026.
 
       - layout: left
         description: | # this will include new lines to allow paragraphs
