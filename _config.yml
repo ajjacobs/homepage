@@ -91,7 +91,7 @@ content:
       - layout: left
         title: "2021"
         description: | # this will include new lines to allow paragraphs
-            Matthew McLeod, Chunlok Lo, Matthew Schlegel, **Andrew Jacobsen**, Raksha Kumaraswamy, Martha White, Adam White. ["Continual Auxiliary Task Learning"](https://proceedings.neurips.cc/paper/2021/file/68331ff0427b551b68e911eebe35233b-Paper.pdf). Neural Information Processing Systems. 2021.
+            Matthew McLeod, Chunlok Lo, Matthew Schlegel, **Andrew Jacobsen**, Raksha Kumaraswamy, Martha White, Adam White. ["Continual Auxiliary Task Learning"](https://proceedings.neurips.cc/paper/2021/file/68331ff0427b551b68e911eebe35233b-Paper.pdf). Neural Information Processing Systems (NeurIPS). 2021.
 
       - layout: left
         description: | # this will include new lines to allow paragraphs
