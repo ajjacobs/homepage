@@ -54,7 +54,7 @@ content:
 
       - layout: left
         description: | # this will include new lines to allow paragraphs
-          Emmanuel Esposito\*, **Andrew Jacobsen**\*, Hao Qiu\*, Mengxiao Zhang\*. ["Parameter-free Dynamic Regret: Time-varying Movement Costs, Delayed Feedback, and Memory"](https://arxiv.org/pdf/2602.06902). International Conference on Machine Learning (ICML). 2026.
+          Hao Qiu\*, **Andrew Jacobsen**\*, Emmanuel Esposito\*, Mengxiao Zhang\*. ["Parameter-free Dynamic Regret: Time-varying Movement Costs, Delayed Feedback, and Memory"](https://arxiv.org/pdf/2602.06902). International Conference on Machine Learning (ICML). 2026.
 
       - layout: left
         description: | # this will include new lines to allow paragraphs
