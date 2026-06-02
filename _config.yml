@@ -49,12 +49,12 @@ content:
 
       - layout: left
         description: | # this will include new lines to allow paragraphs
-          **Andrew Jacobsen**\*, Dorian Baudry\*, Shinji Ito, Nicolo Cesa-Bianchi. ["A Perturbation Approach to Unconstrained Linear Bandits"](https://arxiv.org/pdf/2603.28201). International Conference on Machine Learning (ICML). 2026.
+          **Andrew Jacobsen**\*, Dorian Baudry\*, Shinji Ito, Nicolo Cesa-Bianchi. ["A Perturbation Approach to Unconstrained Linear Bandits"](https://arxiv.org/pdf/2603.28201v2). International Conference on Machine Learning (ICML). 2026.
 
 
       - layout: left
         description: | # this will include new lines to allow paragraphs
-          Hao Qiu\*, **Andrew Jacobsen**\*, Emmanuel Esposito\*, Mengxiao Zhang\*. ["Parameter-free Dynamic Regret: Time-varying Movement Costs, Delayed Feedback, and Memory"](https://arxiv.org/pdf/2602.06902). International Conference on Machine Learning (ICML). 2026.
+          Hao Qiu\*, **Andrew Jacobsen**\*, Emmanuel Esposito\*, Mengxiao Zhang\*. ["Parameter-free Dynamic Regret: Time-varying Movement Costs, Delayed Feedback, and Memory"](https://arxiv.org/pdf/2602.06902v2). International Conference on Machine Learning (ICML). 2026.
 
       - layout: left
         description: | # this will include new lines to allow paragraphs
