@@ -19,13 +19,16 @@ github_username:  ajjacobs
 # about_title: About Me
 #about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a postdoctoral researcher affiliated with [Politecnico Milan](https://www.polimi.it/) and [the University of Milan](https://www.unimi.it/en),
+  I am a postdoctoral researcher at [Universitat Pampeu Fabra](https://www.upf.edu/),
+  working with [Gergely Neu](https://cs.bme.hu/~gergo/). Prior to that, I spent a little over a year
+  as a postdoctoral researcher affiliated
+  with [Politecnico Milan](https://www.polimi.it/) and [the University of Milan](https://www.unimi.it/en),
   working with [Nicolò Cesa-Bianchi](https://cesa-bianchi.di.unimi.it/).
   My primary focus is online learning theory, particularly algorithms that require no hyperparameter tuning
   and can adapt to time-varying objectives on-the-fly. I am also broadly interested in machine learning theory, reinforcement learning,
   and bandits.
 
-  I earned a PhD in Computing Science in 2024 from the University of Alberta, advised by [Ashok Cutkosky](https://ashok.cutkosky.com/) (Boston University) and [Martha White](http://webdocs.cs.ualberta.ca/~whitem/) (University of Alberta).
+  I earned a PhD in Computing Science in 2024 from the [University of Alberta](https://www.ualberta.ca/en/index.html), advised by [Ashok Cutkosky](https://ashok.cutkosky.com/) (Boston University) and [Martha White](http://webdocs.cs.ualberta.ca/~whitem/) (University of Alberta).
   Before that, I earned my MSc (and BSc) in Computing Science from the Univeristy of Alberta, advised by [Martha White](http://webdocs.cs.ualberta.ca/~whitem/) and [Adam White](https://sites.ualberta.ca/~amw8/). 
   I have also completed a music program at Grant Macewan University, where I majored in composition and minored in music technology.
 
@@ -44,6 +47,10 @@ content:
 
       - layout: left
         title: "2026"
+        description: | # this will include new lines to allow paragraphs
+          **Andrew Jacobsen**, Emmanuel Esposito, Hao Qiu, Mengxiao Zhang. "Strongly Adaptive Online Learning with Time-Varying Movement Costs". Neural Information Processing Systems (NeurIPS). 2026. (in press)
+
+      - layout: left
         description: | # this will include new lines to allow paragraphs
           Yuheng Zhao\*, **Andrew Jacobsen**\*, Nicolo Cesa-Bianchi, Peng Zhao. ["Gradient-Variation Regret Bounds for Unconstrained Online Learning"](https://arxiv.org/pdf/2604.11151). Conference on Learning Theory (COLT). 2026.
 
