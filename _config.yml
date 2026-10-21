@@ -48,7 +48,7 @@ content:
       - layout: left
         title: "2026"
         description: | # this will include new lines to allow paragraphs
-          Hao Qiu\*, **Andrew Jacobsen**\*, Emmanuel Esposito, Mengxiao Zhang. ["Universal Online Convex Optimization With Delayed Feedback"](https://arxiv.org/pdf/2610.28058). ArXiV pre-print. 2026. (in press)
+          Hao Qiu\*, **Andrew Jacobsen**\*, Emmanuel Esposito, Mengxiao Zhang. ["Universal Online Convex Optimization With Delayed Feedback"](https://arxiv.org/pdf/2610.28058). ArXiV pre-print. 2026. 
 
       - layout: left
         description: | # this will include new lines to allow paragraphs
