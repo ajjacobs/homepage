@@ -52,7 +52,7 @@ content:
 
       - layout: left
         description: | # this will include new lines to allow paragraphs
-          **Andrew Jacobsen**, Emmanuel Esposito, Hao Qiu, Mengxiao Zhang. "Strongly Adaptive Online Learning with Time-Varying Movement Costs". Neural Information Processing Systems (NeurIPS). 2026. (in press)
+          **Andrew Jacobsen**, Emmanuel Esposito, Hao Qiu, Mengxiao Zhang. ["Strongly Adaptive Online Learning with Time-Varying Movement Costs"](https://arxiv.org/pdf/2610.32740). Neural Information Processing Systems (NeurIPS). 2026. (in press)
 
       - layout: left
         description: | # this will include new lines to allow paragraphs
